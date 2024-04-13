@@ -9,7 +9,7 @@
 #### Settings: 
 - MaxCPS: CPS tối đa để tấn công mục tiêu.
 - MinCPS: CPS tối thiểu để tấn công mục tiêu.
-- HurtTime: Thời giản nghỉ giữa 2 hit, được tính theo tick (20 ticks = 1 giây).
+- HurtTime: Thời giản nghỉ sau khi bạn hit thực thể, được tính theo tick (20 ticks = 1 giây). Mặc định bạn hit vào thực thể, entity sẽ không bị hit tiếp theo sau 10 tick.
 - Range: Khoảng cách có thể tấn công, được tính bằng đơn vị `"mét"` trong Minecraft (1 mét = 1 block).
 - ThroughWallsRange: Khoảng cách có thể tấn công xuyên tường, được tính bằng đơn vị `"mét"` trong Minecraft (1 mét = 1 block).
 - RangeSprintReducement: Phần phạm vi bị giảm đi do sprint.
@@ -31,16 +31,16 @@
 - Priority: Lựa chọn thực thể ưu tiên:  
   + Health: Khi thực thể thấp máu.
   + Distance: Khi thực thể đứng gần người chơi.
-  + Direction: Khi thực thể đang hướng vào mình (?).
-  + LivingTime: Khi thực thể có số tick nhiều nhất (?).
-  + Armor: Khi thực thể có giáp - (?).
+  + Direction: Khi thực thể đang hướng vào mình gần nhất.
+  + LivingTime: Khi thực thế sống lâu nhất. Thời điểm tính tick sống là thời điểm thực thể chết cho đến thời điểm đang xét.
+  + Armor: Khi thực thể có giáp mạnh hơn.
   + HurtTime: Khi thực thể tấn công người chơi có số lượng damage cao hơn so với thực thể đang tấn công người chơi.
 - Swing: Animation khi sử dụng KillAura vào thực thể.
 - KeepSprint: Vẫn có thể chạy khi đang tấn công thực thể.
 - AutoBlock: Tự động chặn kiếm khi đang tấn công mục tiêu. Gồm các mode:
   + None: Không chặn kiếm.
   + Packet: Luôn luôn chặn kiếm.
-  + AfterTick: Luôn chặn kiếm cứ sau 1 giây.
+  + AfterTick: Luôn chặn kiếm cứ sau 1 tick.
 - AutoBlockSetting: Setting cho AutoBlock. Gồm các mode:
   + InteractAutoBlock: Blocking ở góc nhìn thứ 3.
   + VerusAutoBlock: Một dạng AutoBlock có thể bypass Verus và cũng có thể đi kèm với các AutoBlock khác.

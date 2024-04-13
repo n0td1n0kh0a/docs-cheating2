@@ -34,7 +34,7 @@
   + Direction: Khi thực thể đang hướng vào mình gần nhất.
   + LivingTime: Khi thực thế sống lâu nhất. Thời điểm tính tick sống là thời điểm thực thể chết cho đến thời điểm đang xét.
   + Armor: Khi thực thể có giáp mạnh hơn.
-  + HurtTime: Khi thực thể tấn công người chơi có số lượng damage cao hơn so với thực thể đang tấn công người chơi.
+  + HurtTime: Khi thực thể có tick HurtTime thấp hơn (Xem tại setting HurtTime).
 - Swing: Animation khi sử dụng KillAura vào thực thể.
 - KeepSprint: Vẫn có thể chạy khi đang tấn công thực thể.
 - AutoBlock: Tự động chặn kiếm khi đang tấn công mục tiêu. Gồm các mode:

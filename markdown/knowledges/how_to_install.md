@@ -1,4 +1,5 @@
 # Cách cài đặt client
+
 Chuyên mục này là nơi hướng dẫn chi tiết cách cài các loại client khác nhau như Forge, Fabric, MCP (Version), Injection, ....
 
 Trước khi cài client, cần xác định rõ client đó thuộc loại nào, và chạy trên phiên bản nào (Một số người cài client 1.12.2 vô 1.8.9 và ngược lại).
@@ -48,6 +49,7 @@ Các bước cài:
 - Bước 6: Khởi động lại launcher, chọn client bạn vừa cài và khởi động.
 
 ## Lưu ý (phải đọc)
+
 - Không thể cài client MCP dưới dạng Forge (Một số người nhầm tưởng có file jar là Forge nên đâm đầu cài client Forge).
 - Đối với Forge, bạn có thể cài Optifine (nếu bạn chạy ForgeOptifine thì không cần thiết).
 - Đối với Fabric, rất khuyến khích cài các mod tối ưu hoá (Sodium, Lithium, ...)

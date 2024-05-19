@@ -11,5 +11,5 @@
 | 3FMC     | 3fmc.com     | Bedwar                            | Intave <= 14.5.6 + Grim       |
 | AEMine   | aemine.vn    | Bedwar, Skywar, ThePit            | Matrix + Spartan              |
 | MineFC   | minefc.net   | ThePit                            | Matrix + NCP                  |
-| VietMine | vietmine.com | ThePit, KitPVP                    | Intave                        |
+| VietMine | vietmine.com | ThePit, KitPVP                    | Matrix?                       |
 | LuckyVN  | luckyvn.com  | Bedwar                            | Intave <= 14.5.6 + Vulcan     |

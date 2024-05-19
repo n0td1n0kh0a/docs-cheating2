@@ -2,7 +2,7 @@
 
 Chuyên mục này là nơi hướng dẫn chi tiết cách cài các loại client khác nhau như Forge, Fabric, MCP (Version), Injection, ....
 
-Trước khi cài client, cần xác định rõ client đó thuộc loại nào, và chạy trên phiên bản nào (Một số người cài client 1.12.2 vô 1.8.9 và ngược lại). Có thể check loại client tại: [https://github.com/MinusMC/jar-client-checker](https://minusmc.github.io/jar-client-checker/)
+Trước khi cài client, cần xác định rõ client đó thuộc loại nào, và chạy trên phiên bản nào (Một số người cài client 1.12.2 vô 1.8.9 và ngược lại). Có thể check loại client tại: https://minusmc.github.io/jar-client-checker/
 
 ## Forge
 Client: LiquidBounce Legacy (1.8.9), LiquidBounce 1.12.2 (client này đã bị xoá bởi CCBlueX), MinusBounce, FDPClient, NightX, ...

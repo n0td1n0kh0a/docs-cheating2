@@ -1,8 +1,8 @@
-# Cách cài đặt client
+# Cách cài đặt client (mod đối với Forge, Fabric)
 
-Chuyên mục này là nơi hướng dẫn chi tiết cách cài các loại client khác nhau như Forge, Fabric, MCP (Version), Injection, ....
+Chuyên mục này là nơi hướng dẫn chi tiết cách cài các loại client (mod) khác nhau như Forge, Fabric, MCP (Version), Injection, ....
 
-Trước khi cài client, cần xác định rõ client đó thuộc loại nào, và chạy trên phiên bản nào (Một số người cài client 1.12.2 vô 1.8.9 và ngược lại). Có thể check loại client tại: https://minusmc.github.io/jar-client-checker/
+Trước khi cài client, cần xác định rõ client, mod đó thuộc loại nào, và chạy trên phiên bản nào (Một số người cài client 1.12.2 vô 1.8.9 và ngược lại). Có thể check loại client tại: https://minusmc.github.io/jar-client-checker/
 
 ## Forge
 Client: LiquidBounce Legacy (1.8.9), LiquidBounce 1.12.2 (client này đã bị xoá bởi CCBlueX), MinusBounce, FDPClient, NightX, ...

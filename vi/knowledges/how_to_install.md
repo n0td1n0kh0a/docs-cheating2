@@ -35,7 +35,7 @@ Lưu ý quan trọng: Một số client có sử dụng ngôn ngữ Kotlin như 
 
 ## MCP (Version)
 
-Client: Rise, Gothaj, Augustus b2.6, ...
+Client: Rise, Gothaj, Augustus b2.6, ...\
 Client MCP là client chứa 2 file (1 file jar và 1 file json).
 
 Các bước cài:

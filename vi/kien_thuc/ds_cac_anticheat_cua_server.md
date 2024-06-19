@@ -9,7 +9,7 @@
 | HeroMC         | heromc.net   	 | Bedwar 1.8                        | Matrix + Grim                 |
 | HeroMC         | heromc.net   	 | Bedwar 1.12.2, ThePit, Practice   | Grim + Vulcan                 |
 | HeroMC         | heromc.net   	 | Skywar                            | Grim + Vulcan        		 |
-| 3FMC           | 3fmc.com     	 | Bedwar                            | Intave + Matrix      		     |Change account after 2 rounds|
+| 3FMC           | 3fmc.com     	 | Bedwar                            | Intave + Grim    		     |Change account after 2 rounds|
 | AEMine         | aemine.vn    	 | Bedwar, Skywar, ThePit            | Matrix + Spartan              |
 | MineFC         | minefc.net   	 | ThePit                            | Matrix + NCP                  |
 | VietMine       | vietmine.com 	 | ThePit, KitPVP                    | Intave                        |

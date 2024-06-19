@@ -1,6 +1,8 @@
-# Cách mở ClickGui trên hầu hết các Hacked Clients Phổ Biến của Minecaft Hiện Nay
+# Cách mở ClickGui trên hầu hết các Hacked Clients Phổ Biến của Minecraft Hiện Nay
 Chuyên mục này là nơi hướng dẫn chi tiết cách mở clickgui trong các loại client phổ biến hiện nay như [Liquidbounce Nextgen và Legacy](https://vn.liquidbounce.net/download), [MinusBounce](https://minusbounce.lol/), [FDPClient](https://fdpinfo.github.io), [RavenB++](https://k-ov.github.io/download/), [RavenB+](https://github.com/Kopamed/Raven-bPLUS), Liquibounce Forks, ...
+
 Các Bước Mở Thủ Công:
+
 Bước 1: Đảm bảo bạn đã vào game và xác nhận đã cài client vào Minecraft.
 Bước 2: Vào 1 thế giới hoặc server bất kì.
 Bước 3: Thông thường các client sẽ mặc định nút mở ClickGui là nút RShift, nút Shift bên phải của bàn phím.

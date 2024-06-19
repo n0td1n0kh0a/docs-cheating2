@@ -21,16 +21,16 @@
 | Mineberry	     | mineberry.org	 | Bedwar							 | Intave + Matrix				 |
 | Dexland	     | dexland.ru		 | Skywar					 		 | Intave						 |
 | Cheatmine	     | cheatmine.ru	     | Skywar							 | Intave						 |
-| Pika Network   | pika-network.net  | Bedwar, Skywar					 | Polar						 | Ban ip ( v4guard anti vpn )
-| Jartex Network | jartexnetwork.com | Bedwar, Skywar					 | Polar						 | Ban ip ( v4guard anti vpn )
+| Pika Network   | pika-network.net  | Bedwar, Skywar					 | Polar						 | Ban ip ( v4guard AntiVPN )
+| Jartex Network | jartexnetwork.com | Bedwar, Skywar					 | Polar						 | Ban ip ( v4guard AntiVPN )
 | Hycraft		 | hycraft.us		 | Practice							 | Polar						 |
 | Craftplay		 | craftplay.pl 	 | Bedwar							 | Polar						 |  Bad Setting
-| Lucky Network  | luckynetwork.net  | Bedwar							 | Polar				 | Ban ip ( v4guard anti vpn )
+| Lucky Network  | luckynetwork.net  | Bedwar							 | Polar				 | Ban ip ( v4guard AntiVPN )
 | Hypixel		 | hypixel.net		 | Bedwar, Skywar, Practice, Thepit	 | Watchdog	+ Custom UNCP			 		 |
 | MinemenClub    | minemen.club		 | Practice							 | Anti Gaming Chair			 |
 | CubeCraft |cubecraft.net |Minigames| Sentinel (Custom NCP Fork)|Perma Bans and Blocks your network for around 24 Hours + AntiVPN|
 | Minemalia|play.minemalia.com|Minigames|Grim|IP Bans for 30 Days + AntiVPN|
-| Minelatino |play.minelatino.com|Skywars|Vulcan| Ban ip ( v4guard anti vpn )
+| Minelatino |play.minelatino.com|Skywars|Vulcan| Ban ip ( v4guard AntiVPN )
 |Leonemc|leonemc.net|1.8/1.9+ PVP|Grim| P2W, Players are too stupid to notice cheaters, 15days ban|
 |Shotbow|Shotbow.net|1.8 / 1.12.2 Minigames |Matrix + Anticheat Additions|PermaBans|
 
@@ -61,8 +61,6 @@
 | Minemalia      | play.minemalia.com | Minigames                        | Grim                         | Ban IP 30 ngày + AntiVPN                                                                                               |
 | Leonemc        | leonemc.net        | 1.8/1.9+ PVP                     | Grim                         | P2W, player ở đây ngu đến mức không nhận ra cheater, ban 15 ngày                                                       |
 | Shotbow        | Shotbow.net        | 1.8 / 1.12.2 Minigames           | Matrix + Anticheat Additions | Ban vĩnh viễn                                                                                                          |                                               |
->>>>>>> 478baa17245b8f17b020953711c8e0becac76959
-
 
 **Some servers maybe died**
 

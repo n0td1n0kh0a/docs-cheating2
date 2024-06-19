@@ -19,7 +19,7 @@
 
 * Hầu hết tất cả các server sử dụng anti vpn này gần như là không có loại ứng dụng faki ip nào bypass được
 * Nhưng đấy là mấy thằng khác nói thế còn tôi có cách!
-B1: Đầu diên, tất nhiên là nó sẽ không miễn phí. Truy cập vào trang web [LiquidProxy](https://vn.liquidbounce.net/proxy) để mua, nếu bạn không có VCC để mua hãy truy cập[LiddellViet](https://www.liddellviet.store).
+B1: Đầu diên, tất nhiên là nó sẽ không miễn phí. Truy cập vào trang web [LiquidProxy](https://vn.liquidbounce.net/proxy) để mua, nếu bạn không có VCC để mua hãy truy cập [LiddellViet](https://www.liddellviet.store).
 * B2: Sau khi đã mua bạn hãy đăng nhập vào tài khoản có LiquidProxy.
 * B3: Sau khi đăng nhập nó nhảnh đến trang dashboard, nơi đây bạn có thể chọn các proxy mà bạn muốn.
 * B4: Tìm client nào có hỗ trợ add proxy và setup .

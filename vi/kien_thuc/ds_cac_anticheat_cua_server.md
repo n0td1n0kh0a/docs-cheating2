@@ -33,7 +33,7 @@
 | Minelatino |play.minelatino.com|Skywars|Vulcan| Ban ip ( v4guard anti vpn )
 |Leonemc|leonemc.net|1.8/1.9+ PVP|Grim| P2W, Players are too stupid to notice cheaters, 15days ban|
 |Shotbow|Shotbow.net|1.8 / 1.12.2 Minigames |Matrix + Anticheat Additions|PermaBans|
-=======
+
 | Server         | IP                 | Minigame                         | Anticheat                    | Chú ý                                                                                                                  |
 | -------------- | ------------------ | -------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | HeroMC         | heromc.net         | Bedwar 1.8                       | Matrix + Grim                | Ban IP 7 ngày                                                                                                          |

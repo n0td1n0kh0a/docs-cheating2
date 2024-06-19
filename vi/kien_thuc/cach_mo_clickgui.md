@@ -1,5 +1,5 @@
 # Cách mở ClickGui trên hầu hết các Hacked Clients Phổ Biến của Minecraft Hiện Nay
-Chuyên mục này là nơi hướng dẫn chi tiết cách mở clickgui trong các loại client phổ biến hiện nay như [Liquidbounce Nextgen và Legacy](https://vn.liquidbounce.net/download), [MinusBounce](https://minusbounce.lol/), [FDPClient](https://fdpinfo.github.io), [RavenB++](https://k-ov.github.io/download/), [RavenB+](https://github.com/Kopamed/Raven-bPLUS), Liquibounce Forks, ...
+Chuyên mục này là nơi hướng dẫn chi tiết cách mở clickgui trong các loại client phổ biến hiện nay như [Liquidbounce Nextgen và Legacy](https://vn.liquidbounce.net/download), [MinusBounce](https://minusbounce.lol/), [FDPClient](https://fdpinfo.github.io), [RavenB++](https://k-ov.github.io/download/), [RavenB+](https://github.com/Kopamed/Raven-bPLUS), LiquidBounce Forks, ...
 
 Các Bước Mở Thủ Công:
 
@@ -8,7 +8,7 @@ Bước 1: Đảm bảo bạn đã vào game và xác nhận đã cài client v�
 Bước 2: Vào 1 thế giới hoặc server bất kì.
 
 Bước 3: Rất đơn giản, ấn nút RShift (Shift bên phải của bàn phím)
-Lưu ý: Có vài ngoại lệ như KamiBlue Client, có nút mở ClickGui mặc định là nút Y. Nếu thử nút RShift mà không mở được thì hãy thử hết tất cả các phím còn lại trên bàn phím của bạn. Nếu vẫn Không được đó có thể là lỗi của client.
+Lưu ý: Có vài ngoại lệ như KamiBlue Client, có nút mở ClickGui mặc định là nút Y. Nếu thử nút RShift mà không mở được thì hãy thử  hết tất cả các phím còn lại trên bàn phím của bạn. Nếu vẫn Không được đó có thể là lỗi của client.
 
 Cách mở cho client có thể dùng các lệnh cơ bản khi không dùng được phương pháp ở trên:
 Lưu Ý: Chắc chắn rằng bạn đã vào game và xác nhận đã cài client vào Minecraft và thử cách ở trên.

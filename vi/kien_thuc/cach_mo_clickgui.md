@@ -4,7 +4,9 @@ Chuyên mục này là nơi hướng dẫn chi tiết cách mở clickgui trong 
 Các Bước Mở Thủ Công:
 
 Bước 1: Đảm bảo bạn đã vào game và xác nhận đã cài client vào Minecraft.
+
 Bước 2: Vào 1 thế giới hoặc server bất kì.
+
 Bước 3: Thông thường các client sẽ mặc định nút mở ClickGui là nút RShift, nút Shift bên phải của bàn phím.
 Tất nhiên cũng sẽ có vài ngoại lệ như KamiBlue Client, có nút mở ClickGui mặc định là nút Y. Nếu thử nút RShift mà không mở được thì hãy thử hết tất cả các phím còn lại trên bàn phím của bạn. Nếu vẫn Không được đó có thể là lỗi của client.
 

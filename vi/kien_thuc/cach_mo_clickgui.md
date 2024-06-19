@@ -19,4 +19,5 @@ Bước 1: Mở chat, gõ cú pháp: `<prefix> bind <KeysBind> <Module>`
        + KeysBind là phím bạn muốn dùng để sử dụng hoặc mở 1 module.
        + Module là các tính năng trong client bao gồm cả ClickGui như ở trên.
 Nếu dùng các client Liquidbounce có thể nhập lệnh .bind ClickGui RShift vào chat
+
 Bước 2: Thử mở ClickGui bằng nút bạn vừa ghi trong lệnh ở trên (Ở trên hướng dẫn là nút RShift)

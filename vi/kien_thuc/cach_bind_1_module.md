@@ -23,5 +23,6 @@ Có 2 cách phổ biến nhất hiện tại:
   Bước 3: Tìm ô Keybind
   Bước 4: Ấn vào ô đó và ấn nút bạn muốn Bind trên bàn phím
 
-  Ảnh Minh Họa Trên Client Liquidbounce Nextgen
+  
   ![image](https://github.com/javiki123gm/docs-cheating/assets/128275915/3a27cb89-5ef2-4475-a560-ff4edba5b6b3)
+         Ảnh Minh Họa Trên Client Liquidbounce Nextgen

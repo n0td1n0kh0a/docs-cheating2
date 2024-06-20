@@ -3,6 +3,9 @@ ClickGUI là 1 trong những thành phần không thể thiếu trong bất kì 
 
 Các client có ClickGUI: [Liquidbounce Nextgen và Legacy](https://vn.liquidbounce.net/download), [MinusBounce](https://minusbounce.lol/), [FDPClient](https://fdpinfo.github.io), [RavenB++](https://k-ov.github.io/download/), [RavenB+](https://github.com/Kopamed/Raven-bPLUS), Liquibounce Forks, ...
 
+![ClickGUI](https://raw.githubusercontent.com/MinusMC/docs-cheating/main/examples/basic/clickgui/clickgui_0.png)
+![ClickGUI](https://raw.githubusercontent.com/MinusMC/docs-cheating/main/examples/basic/clickgui/clickgui_1.png)
+
 # Làm thế nào để mở ClickGUI
 - Bước 1: Đảm bảo bạn đã vào game và xác nhận đã cài client vào Minecraft.
 - Bước 2: Vào 1 thế giới hoặc server bất kì.
@@ -16,7 +19,7 @@ Vẫn không mở được? Xem hướng dẫn phía dưới.
 
 Tại sao lại có chuyện này?
 
-Thông thường, tất cả các client đều theo 1 phím duy nhất là phím RShift Nhưng vì một vài lí do như Augustus 2.6 mà nút ClickGUI không được gắn phím sẵn. Nếu gặp trường hợp này, làm theo các bước dưới đây:
+Thông thường, tất cả các client đều theo 1 phím duy nhất là phím RShift. Nhưng vì một vài lí do như Augustus 2.6 mà nút ClickGUI không được gắn phím sẵn. Nếu gặp trường hợp này, làm theo các bước dưới đây:
 
 
 - Bước 1: Đảm bảo rằng bạn đã vào game và xác nhận đã cài client vào Minecraft và thử cách ở trên.
@@ -25,4 +28,4 @@ Thông thường, tất cả các client đều theo 1 phím duy nhất là phí
 	+ Keybind là phím bạn muốn dùng để sử dụng hoặc mở 1 module.
 	+ Module là các tính năng trong client bao gồm cả ClickGui như ở trên.
 	+ Ví dụ: `.bind ClickGUI RShift`
-- Bước 3: Mở ClickGUI theo hướng dẫn ở trên
+- Bước 3: Mở ClickGUI theo hướng dẫn ở trên.

@@ -10,11 +10,13 @@ Các client có ClickGUI: [Liquidbounce Nextgen và Legacy](https://vn.liquidbou
 
 Không mở được ClickGUI? Thử tất cả các phím còn lại trên bàn phím của bạn.
 
-Vẫn không mở được? Xem hướng dẫn phía dưới
+Vẫn không mở được? Xem hướng dẫn phía dưới.
 
 # Gắn phím cho ClickGUI
 
-Một số client vì một vài lí do mà nút ClickGUI không được gắn phím sẵn. Nếu gặp trường hợp này hãy làm theo các bước dưới đây:
+Tại sao lại có chuyện này?
+
+Thông thường, tất cả các client đều theo 1 phím duy nhất là phím RShift Nhưng vì một vài lí do như Augustus 2.6 mà nút ClickGUI không được gắn phím sẵn. Nếu gặp trường hợp này, làm theo các bước dưới đây:
 
 
 - Bước 1: Đảm bảo rằng bạn đã vào game và xác nhận đã cài client vào Minecraft và thử cách ở trên.

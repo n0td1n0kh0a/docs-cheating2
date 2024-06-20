@@ -12,8 +12,9 @@ Lưu ý: Có vài ngoại lệ như KamiBlue, có nút mở ClickGui mặc đị
 
 Một số client vì một vài lí do mà nút ClickGUI không được gắn phím sẵn. Nếu gặp trường hợp này hãy làm theo các bước dưới đây:
 - Bước 1: Đảm bảo rằng bạn đã vào game và xác nhận đã cài client vào Minecraft và thử cách ở trên.
-- Bước 2: Mở chat, gõ cú pháp: `<prefix>bind <KeysBind> <Module>`. Trong đó: 
- -  Prefix có thể là dấu `.`, `!`, ... (đa số là dấu chấm).
- - KeysBind là phím bạn muốn dùng để sử dụng hoặc mở 1 module.
- - Module là các tính năng trong client bao gồm cả ClickGui như ở trên.
+- Bước 2: Mở chat, gõ cú pháp: `<prefix>bind <KeysBind> <Module>`. Trong đó:
+ + Prefix có thể là dấu `.`, `!`, ... (đa số là dấu chấm).
+ + KeysBind là phím bạn muốn dùng để sử dụng hoặc mở 1 module.
+ + Module là các tính năng trong client bao gồm cả ClickGui như ở trên.
+ + Ví dụ: `.bind ClickGUI RShift`
 - Bước 3: Mở ClickGUI theo hướng dẫn ở trên

@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Tài liệu Cheating</h1>
-  <h3>Một cuốn tài liệu làm thế nào để trở thành cheater và trở nên pro hơn</h3>
+  <h3>Kho lưu trữ về tài liệu mà tất cả các Minecraft Cheaters cần</h3>
   Website: https://minusbounce.lol</br>
   Discord: https://discord.minusbounce.lol</br>
   English: https://github.com/MinusMC/docs-cheating

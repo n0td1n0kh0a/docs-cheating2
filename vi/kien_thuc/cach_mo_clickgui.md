@@ -8,7 +8,7 @@ Các client có ClickGUI: [Liquidbounce Nextgen và Legacy](https://vn.liquidbou
 - Bước 2: Vào 1 thế giới hoặc server bất kì.
 - Bước 3: Rất đơn giản, ấn nút `RShift` (Shift bên phải của bàn phím).
 
-Không mở được ClickGUI. Thử tất cả các phím còn lại trên bàn phím của bạn.
+Không mở được ClickGUI? Thử tất cả các phím còn lại trên bàn phím của bạn.
 
 Vẫn không mở được? Xem hướng dẫn phía dưới
 

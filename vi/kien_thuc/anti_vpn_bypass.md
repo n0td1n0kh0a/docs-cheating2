@@ -20,6 +20,20 @@ Một số server như [Pika Network](https://pikanetwork.net), [Lucky Network](
 
 Cách bypass đơn giản nhất: Dùng 4G :trollface:, vâng đúng rồi đó. 4G chính là 1 nguồn VPN hoàn toàn hợp lệ mà các AntiVPN không thể chặn được. Chỉ cần phát wifi là bạn có thể sử dụng, nhưng giá của nó khá mắc (Viettel bán các gói data như ST15K 3GB / 3 ngày, ST30K 7GB / 7 ngày).
 
-Cách đơn giản thứ 2: Tắt modem (cục wifi) và bật lại. Lưu ý: không áp dụng với Viettel, VNPT mới đăng kí dưới 12 tháng (do nhà mạng để modem nằm trong 1 proxy, được gọi là CGNAT), nhà mạng FPT có xác suất 50/50.
+Cách đơn giản thứ 2: Tắt router (cục wifi) và bật lại. Lưu ý: không áp dụng với Viettel, VNPT mới đăng kí dưới 12 tháng (do nhà mạng để modem nằm trong 1 proxy, được gọi là CGNAT), nhà mạng FPT có xác suất 50/50.
+Nếu nhà mạng FPT của bạn tắt đi và bật lại thành công thay đổi IP thì chúc mừng! Chúng ta có thể có cách tiếp theo mà không cần Restart router
+
+Cách 3 (áp dụng cho nhà mạng FPT)
+Bước 1: Vào trình duyệt web, mở trang [login page của router](192.168.1.1) (192.168.1.1/192.168.1.0/192.168.0.1/... | bình thường  là 192.168.1.1)
+Bước 2: Đắng nhập vào (thông tin đăng nhập bình thường dán ở mặt sau router)
+![image](https://github.com/MinusMC/docs-cheating/assets/152876934/29510029-c8ce-4764-a294-50925b3397c0)
+
+Bước 3: Tìm mục WAN/PPPOE ấn vào Reconnect PPPOE
+![image](https://github.com/MinusMC/docs-cheating/assets/152876934/0e8e60fa-71fd-40e5-b4c2-3b7e351497b6)
+![image](https://github.com/MinusMC/docs-cheating/assets/152876934/7c673673-fcd5-4772-8507-9d611d66a601)
+
+Bước 4: Đợi khoảng từ 2 - 5s cho router kết nối lại đến nhà mạng
+Sau đó IP của bạn sẽ được thay đổi
+- Lưu ý!: Đối với một số router FPT (như AC1000F) thì phải đợi từ 1 - 2 phút sau khi nhận IP mới thành công, nếu không, router sẽ có 1 lỗi là No IP (Không nhận địa chỉ IP)
 
 Ngoài ra, bạn có thể mua Proxy như mproxy.vn, hay là LiquidProxy (liquidproxy.net), ...

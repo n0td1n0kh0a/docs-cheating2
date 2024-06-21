@@ -6,7 +6,7 @@
 </div>
 
 ## Language
-Tiếng Việt: https://github.com/MinusMC/docs-cheating/blob/main/vi/muc_luc.md
+[Tiếng Việt](README_vi.md)
 
 ## Contributing
 To contribute docs, you can fork and edit this repository. After that, create a pull request.

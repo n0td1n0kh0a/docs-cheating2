@@ -20,4 +20,6 @@ Một số server như [Pika Network](https://pikanetwork.net), [Lucky Network](
 
 Cách bypass đơn giản nhất: Dùng 4G :trollface:, vâng đúng rồi đó. 4G chính là 1 nguồn VPN hoàn toàn hợp lệ mà các AntiVPN không thể chặn được. Chỉ cần phát wifi là bạn có thể sử dụng, nhưng giá của nó khá mắc (Viettel bán các gói data như ST15K 3GB / 3 ngày, ST30K 7GB / 7 ngày).
 
+Cách đơn giản thứ 2: Tắt modem (cục wifi) và bật lại. Lưu ý: không áp dụng với Viettel, VNPT mới đăng kí dưới 12 tháng (do nhà mạng để modem nằm trong 1 proxy, được gọi là CGNAT), nhà mạng FPT có xác suất 50/50.
+
 Ngoài ra, bạn có thể mua Proxy như mproxy.vn, hay là LiquidProxy (liquidproxy.net), ...

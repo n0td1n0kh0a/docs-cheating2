@@ -1,26 +1,23 @@
-# Cách bypass anti vpn thông thường
+# Anti VPN và cách bypass
 
-Ở đây sẽ lý giải về các cách bypass antivpn thông thường của các server như [Blocksmc](blocksmc.com), [Hypixel](Hypixel.net),... etc 
+Anti VPN là 1 trong những công cụ cho phép chặn toàn bộ các IP đến từ các nhà cung cấp dịch vụ VPN như SoftEther VPN, NordVPN, ... Vào 1 ngày đẹp trời, bạn đang cheat các server LuckyVN, BlocksMC tự nhiên bị ban và bạn không thể tạo acc mới do bạn bị IP Ban. Vậy phải làm thế nào? Xem hướng dẫn bên dưới.
 
-* Hầu hết các server ở danh mực này đều có anti vpn khá yêu nếu không muốn nói là như *** bạn có thể sử dụng [VpnGate](https://www.vpngate.net/en/download.aspx) để bypass dễ dàng
-* Vậy làm sao để cài đặt và bypass? 
-* B1: Bạn ấn vào [Đây](https://www.vpngate.net/en/download.aspx) để tải vpn gate.
-* B2: Bạn cài đặt như bình thưởng như cách mà bạn tải các ứng dụng khác vậy.
-* B3: Sau khi đã cài ấn bật lên VPN gate .
-* B4: Trong giao diện menu bạn click vào "VPN Gate Public VPN Relay Servers.
-* B5: Tìm địa chỉ mà bạn muốn fake ip đến và ấn enter, click 2 lần vào cũng được.
-* Cuối cùng: Đổi acc và enjoy.
+# Bypass AntiVPN thông thường
+Một số server sử dụng AntiVPN: LuckyVN (bị ban bởi staff là bị ban bởi IP), BlocksMC, Hypixel, ...
 
-*Lưu ý: Dùng ip của bọn Japan sẽ mượt hơn.
+Hầu hết các server được liệt kê trong này đều có AntiVPN khá yêu nên bạn có thể sử dụng [VpnGate](https://www.vpngate.net/en/download.aspx), NordVPN, ... để bypass dễ dàng
+
+Và một trong những VPN phổ biến nhất hiện nay là VPNGate. Vậy làm thế nào để cài nó? Làm theo các bước dưới đây:
+- Bước 1: Tải VPNGate tại https://www.vpngate.net/en/download.aspx và cài đặt.
+- Bước 2: Mở phần mềm SoftEther VPNGate, click vào "VPN Gate Public VPN Relay Servers.
+- Bước 3: Chọn máy chủ mà bạn muốn fake ip đến và chọn nó, nếu hiện bản chọn method UDP hoặc TCP thì cứ ấn OK.
+- Bước 4: Đổi acc và chơi thôi.
+
   
-# Cách bypass anti vpn VIP PRO
+# Bypass mọi loại AntiVPN
 
-Ở đây bạn sẽ không thể sử dụng cách ở trên để bypass được nữa bởi vì các server như [PikaNetWork](pikanetwork.net), [LuckyNetWork](luckynetwork.net) sử dụng một loại anti vpn cực mạnh đó chính là [v4Guard](https://v4guard.io/) 
+Một số server như [PikaNetWork](pikanetwork.net), [LuckyNetWork](luckynetwork.net) sử dụng [v4Guard](https://v4guard.io/), nên bạn không thể sử dụng cách trên được. Ngoài ra cách này áp dụng với bất kì AntiVPN nào khác. 
 
-* Hầu hết tất cả các server sử dụng anti vpn này gần như là không có loại ứng dụng faki ip nào bypass được
-* Nhưng đấy là mấy thằng khác nói thế còn tôi có cách!
-B1: Đầu diên, tất nhiên là nó sẽ không miễn phí. Truy cập vào trang web [LiquidProxy](https://vn.liquidbounce.net/proxy) để mua, nếu bạn không có VCC để mua hãy truy cập [LiddellViet](https://www.liddellviet.store).
-* B2: Sau khi đã mua bạn hãy đăng nhập vào tài khoản có LiquidProxy.
-* B3: Sau khi đăng nhập nó nhảnh đến trang dashboard, nơi đây bạn có thể chọn các proxy mà bạn muốn.
-* B4: Tìm client nào có hỗ trợ add proxy và setup .
-* B5: Enjoy.
+Cách bypass đơn giản nhất: Dùng 4G :trollface:, vâng đúng rồi đó. 4G chính là 1 nguồn VPN hoàn toàn hợp lệ mà các AntiVPN không thể chặn được. Chỉ cần phát wifi là bạn có thể sử dụng, nhưng giá của nó khá mắc (Viettel bán các gói data như ST15K 3GB / 3 ngày, ST30K 7GB / 7 ngày).
+
+Ngoài ra, bạn có thể mua Proxy như mproxy.vn, hay là LiquidProxy (liquidproxy.net), ...

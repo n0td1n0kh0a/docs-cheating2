@@ -16,7 +16,7 @@ Và một trong những VPN phổ biến nhất hiện nay là VPNGate. Vậy l�
   
 # Bypass mọi loại AntiVPN
 
-Một số server như [PikaNetWork](pikanetwork.net), [LuckyNetWork](luckynetwork.net) sử dụng [v4Guard](https://v4guard.io/), nên bạn không thể sử dụng cách trên được. Ngoài ra cách này áp dụng với bất kì AntiVPN nào khác. 
+Một số server như [PikaNetWork](https://pikanetwork.net), [LuckyNetWork](https://luckynetwork.net) sử dụng [v4Guard](https://v4guard.io/), nên bạn không thể sử dụng cách trên được. Ngoài ra cách này áp dụng với bất kì AntiVPN nào khác. 
 
 Cách bypass đơn giản nhất: Dùng 4G :trollface:, vâng đúng rồi đó. 4G chính là 1 nguồn VPN hoàn toàn hợp lệ mà các AntiVPN không thể chặn được. Chỉ cần phát wifi là bạn có thể sử dụng, nhưng giá của nó khá mắc (Viettel bán các gói data như ST15K 3GB / 3 ngày, ST30K 7GB / 7 ngày).
 

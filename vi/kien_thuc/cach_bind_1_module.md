@@ -1,7 +1,7 @@
 
 # Bind
 
-Bind là 1 trong những tính năng quân trọng trong các client. Thông thường các client sẽ có những phím mặc định. Nhưng bạn muốn cài 1 phím nào đó vô 1 hay nhiều hack thì phải làm thế nào? Hay nếu không thích phím nào đó bật module đó thì phải làm thế nào? 
+Bind là 1 trong những tính năng quan trọng trong các client. Thông thường các client sẽ có những phím mặc định. Nhưng bạn muốn cài 1 phím nào đó vô 1 hay nhiều hack thì phải làm thế nào? Hay nếu không thích phím nào đó bật module đó thì phải làm thế nào? 
 Chuyên mục này sẽ giải đáp rõ vấn đề đó.
 
 ## Keybind là gì

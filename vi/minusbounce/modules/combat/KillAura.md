@@ -7,8 +7,6 @@
 #### Settings: 
 - MaxCPS: CPS tối đa để tấn công mục tiêu.
 - MinCPS: CPS tối thiểu để tấn công mục tiêu.
-- HurtTime: Cool down hit sau khi bị tấn công.
-- Range: Khoảng cách có thể tấn công.
 - ThroughWallsRange: Khoảng cách có thể tấn công xuyên tường.
 - RotationRange: Khoảng cách có thể xoay về đối thủ.
 - Swing: Hiệu ứng kiếm. Có 3 mode:
@@ -34,7 +32,7 @@
 	+ Single: Đánh đơn. ()
 	+ Switch: Đánh 1 hit 1 người. ()
 	+ Multi: Đánh nhiều người cùng lúc. ()
-- FailSwing: Chạy swing bản legit.
+- FailSwing: Tỉ lệ fail của swing (Đánh nhưng không chạy swing)
 - OnlyHitOnMouseToTarget: Chỉ hit khi chuột xoay vào thực thể.
 - AutoBlock: Tự động chặn kiếm khi đang tấn công mục tiêu.
   + None: Không chặn. ()
@@ -47,13 +45,12 @@
 - AutoBlock-Range: Phạm vi có thể autoblock.
 - RayCast: Kiểm tra giữa người chơi và địch có bị chặn bởi người khác không. Nếu có, không đánh.
 - SilentRotation: Xoay trong im lặng.
-- MovementCorrection: Di chuyển theo góc quay:  
-  + Normal: ()
-  + LiquidBounce: ()
-  + Rise: ()
-  + Off: ()
-- Predict: Hitbox đoán góc xoay.
-- PredictSize: Kích thước hitbox cần đoán góc xoay.
+- MovementCorrection: Di chuyển theo góc quay (Correct Sprint State based on rotation):  
+  + Normal: (Di chuyển người chơi theo góc quay được đặt)
+  + Strict: (Di chuyển người chơi theo input (aswd) của người chơi (silent))
+  + Off: (Không di chuyển theo góc quay)
+- Predict: Đoán hướng di chuyển của target
+- PredictSize: Kích thước (hitbox) sẽ được tính toán theo di chuyển
 - Circle: Vẽ vòng tròn có thể đánh.
 - Accuracy: Số cạnh vẽ hình tròn tương đối.
 - Red, Green, Blue, Alpha: Màu của hình tròn (Circle).

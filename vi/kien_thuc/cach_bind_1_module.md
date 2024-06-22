@@ -23,7 +23,7 @@ Mở chat và gõ `<prefix>bind <module> <key>`
 Cách 2: (Cách thủ công)
 - Bước 1: [Mở ClickGui](cach_mo_clickgui.md) (Chưa biết ấn vào để xem)
 - Bước 2: Ấn chuột phải vào hack cần gắn phím.
-- Bước 3: Ấn vào ô `Bind.
+- Bước 3: Ấn vào ô `Bind`.
 - Bước 4: Ấn nút bạn muốn Bind trên bàn phím. Muốn hủy phím thì ấn Esc.
 
   

@@ -11,7 +11,7 @@ Về cơ bản, thay vì bạn phải nhớ trong đầu là nên bật cái nà
 ## Làm thế nào để cài config (load config)
 
 - Bước 1: Đảm bảo bạn đã chọn đúng config, đúng client và đã chạy client ít nhất 1 lần
-- Bước 2: Mở thư mục .minecraft, sau đó mở thư mục tên client (đa số client đều có thư mục chính nó tại .minecraft)
+- Bước 2: Mở thư mục .minecraft (không biết xem tại [đây](cach_mo_thu_muc_.minecraft.md)), sau đó mở thư mục tên client (đa số client đều có thư mục chính nó tại .minecraft)
 - Bước 3: Tìm đến thư mục config (settings nếu không thấy config) và mở chúng
 - Bước 4: Đưa config bạn vừa tải về vào trong thư mục
 - Bước 5: Vào game

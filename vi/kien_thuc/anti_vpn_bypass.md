@@ -29,10 +29,10 @@ Lưu ý: `Không áp dụng với Viettel, VNPT mới đăng kí dưới 12 thá
 Đối với nhà mạng FPT, chúng ta có thể đổi IP mà không cần phải tắt cục wifi:
 - Bước 1: Vào trình duyệt web, mở trang [login page của router](192.168.1.1) (192.168.1.1/192.168.1.0/192.168.0.1/... | bình thường  là 192.168.1.1).
 - Bước 2: Đăng nhập vào (thông tin đăng nhập bình thường dán ở mặt sau router).
-![image](https://github.com/MinusMC/docs-cheating/assets/152876934/29510029-c8ce-4764-a294-50925b3397c0)
+![image](https://raw.githubusercontent.com/MinusMC/CheatingDocumentation/main/examples/basic/antivpn/antivpn_1.png)
 - Bước 3: Tìm mục WAN/PPPOE ấn vào Reconnect PPPOE.
-![image](https://github.com/MinusMC/docs-cheating/assets/152876934/0e8e60fa-71fd-40e5-b4c2-3b7e351497b6)
-![image](https://github.com/MinusMC/docs-cheating/assets/152876934/7c673673-fcd5-4772-8507-9d611d66a601)
+![image](https://raw.githubusercontent.com/MinusMC/CheatingDocumentation/main/examples/basic/antivpn/antivpn_2.png)
+![image](https://raw.githubusercontent.com/MinusMC/CheatingDocumentation/main/examples/basic/antivpn/antivpn_3.png)
 - Bước 4: Đợi khoảng từ 2 - 5s cho router kết nối lại đến nhà mạng. Sau đó IP của bạn sẽ được thay đổi
 
 Lưu ý: `Đối với một số router FPT (như AC1000F) thì phải đợi từ 1 - 2 phút sau khi nhận IP mới thành công, nếu không, router sẽ có 1 lỗi là No IP (Không nhận địa chỉ IP).`

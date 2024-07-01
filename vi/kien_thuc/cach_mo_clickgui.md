@@ -3,8 +3,8 @@ ClickGUI là 1 trong những thành phần không thể thiếu trong bất kì 
 
 Các client có ClickGUI: [Liquidbounce Nextgen và Legacy](https://vn.liquidbounce.net/download), [MinusBounce](https://minusbounce.lol/), [FDPClient](https://fdpinfo.github.io), [RavenB++](https://k-ov.github.io/download/), [RavenB+](https://github.com/Kopamed/Raven-bPLUS), ...
 
-![ClickGUI](https://raw.githubusercontent.com/MinusMC/docs-cheating/main/examples/basic/clickgui/clickgui_0.png)
-![ClickGUI](https://raw.githubusercontent.com/MinusMC/docs-cheating/main/examples/basic/clickgui/clickgui_1.png)
+![ClickGUI](https://raw.githubusercontent.com/MinusMC/CheatingDocumentation/main/examples/basic/clickgui/clickgui_0.png)
+![ClickGUI](https://raw.githubusercontent.com/MinusMC/CheatingDocumentation/main/examples/basic/clickgui/clickgui_1.png)
 
 ## Làm thế nào để mở ClickGUI
 - Bước 1: Đảm bảo bạn đã vào game và xác nhận đã cài client vào Minecraft.

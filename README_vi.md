@@ -5,9 +5,11 @@
   
   Website: https://minusbounce.lol </br>
   Discord: https://discord.minusbounce.lol </br>
-  Mục lục: Xem tại [đây](vi/muc_luc.md)
   
 </div>
+
+## Mục lục
+Xem tại [đây](vi/muc_luc.md)
 
 ## Ngôn ngữ
 [English](README.md)

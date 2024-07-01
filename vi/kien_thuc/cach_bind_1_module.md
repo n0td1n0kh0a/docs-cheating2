@@ -34,4 +34,4 @@ Cách 2: (Cách thủ công)
 - Bước 4: Ấn nút bạn muốn Bind trên bàn phím. Muốn hủy phím thì ấn Esc.
 
   
-  ![image](https://github.com/javiki123gm/docs-cheating/assets/128275915/3a27cb89-5ef2-4475-a560-ff4edba5b6b3)
+  ![image](https://raw.githubusercontent.com/MinusMC/CheatingDocumentation/main/examples/basic/clickgui/clickgui_bind.png)

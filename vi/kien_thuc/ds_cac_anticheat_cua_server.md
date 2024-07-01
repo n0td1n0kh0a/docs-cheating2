@@ -2,7 +2,6 @@
   <h1>Danh sách anticheat trong các server</h1>
 </div>
 
-
 | Server         | IP                 | Minigame                         | Anticheat                    | Chú ý                                                                                                                      |
 | -------------- | ------------------ | -------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | HeroMC         | heromc.net         | Bedwar 1.8                       | Matrix + Grim                | Ban IP 7 ngày                                                                                                              |
@@ -15,10 +14,10 @@
 | LuckyVN        | luckyvn.com        | Bedwar                           | Intave + Vulcan              | Bị kick ăn ban 1 ngày                                                                                                      |
 | BlocksMC       | blocksmc.com       | Bedwar, Skywar                   | Verus + Updated NCP          | Staff online thường xuyên, bị ban 1 ngày với Anticheat, ban 7 ngày với staff, bị ban tài khoản kèm thêm Ban IP, có AntiVPN |
 | Librecraft     | librecraft.com     | Bedwar, Skywar, Luckywar         | Verus + Updated NCP          | Ban vĩnh viễn + Ban IP 6 tiếng                                                                                             |
-| Mineblaze      | mineblaze.net      | Bedwar, Skywar                   | Intave                       | Matrix chỉ bật Bot để check KillAura                                                                                       |
-| Mineberry      | mineberry.org      | Bedwar                           | Intave                       | Bị kick ăn ban 6 giờ hoặc 1 ngày                                                                                           |
-| Dexland        | dexland.ru         | Skywar                           | Intave                       | Bị kick ăn ban 6 giờ hoặc 1 ngày                                                                                           |
-| Cheatmine      | cheatmine.ru       | Skywar                           | Intave                       | Bị kick ăn ban 6 giờ hoặc 1 ngày                                                                                           |
+| Mineblaze      | mineblaze.net      | Bedwar, Skywar                   | Intave                       | Bị kick ăn ban IP 6 giờ hoặc 1 ngày                                                                                        |
+| Mineberry      | mineberry.org      | Bedwar                           | Intave                       | Bị kick ăn ban IP 6 giờ hoặc 1 ngày                                                                                        |
+| Dexland        | dexland.ru         | Skywar                           | Intave                       | Bị kick ăn ban IP 6 giờ hoặc 1 ngày                                                                                        |
+| Cheatmine      | cheatmine.ru       | Skywar                           | Intave                       | Bị kick ăn ban IP 6 giờ hoặc 1 ngày                                                                                        |
 | Pika Network   | pika-network.net   | Bedwar, Skywar                   | Polar                        | Ban IP vĩnh viễn                                                                                                           |
 | Jartex Network | jartexnetwork.com  | Bedwar, Skywar                   | Polar                        | Ban IP vĩnh viễn                                                                                                           |
 | Hycraft        | hycraft.us         | Practice                         | Polar                        |                                                                                                                            |

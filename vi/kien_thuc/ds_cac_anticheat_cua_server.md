@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Danh sách anticheat trong các server</h1>
 </div>
+
 | Server         | IP                 | Minigame                         | Anticheat                    | Chú ý                                                                                                                      |
 | -------------- | ------------------ | -------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | HeroMC         | heromc.net         | Bedwar 1.8                       | Matrix + Grim                | Ban IP 7 ngày                                                                                                              |
@@ -27,4 +28,4 @@
 | CubeCraft      | cubecraft.net      | Minigames                        | Sentinel (Custom NCP Fork)   | Ban vĩnh viễn + ban IP 24 giờ + AntiVPN                                                                                    |
 | Minemalia      | play.minemalia.com | Minigames                        | Grim                         | Ban IP 30 ngày + AntiVPN                                                                                                   |
 | Leonemc        | leonemc.net        | 1.8/1.9+ PVP                     | Grim                         | P2W, player ở đây ngu đến mức không nhận ra cheater, ban 15 ngày                                                           |
-| Shotbow        | Shotbow.net        | 1.8 / 1.12.2 Minigames           | Matrix + Anticheat Additions | Ban vĩnh viễn                                                                                                              |                                               |
+| Shotbow        | Shotbow.net        | 1.8 / 1.12.2 Minigames           | Matrix + Anticheat Additions | Ban vĩnh viễn                                                                                                              |

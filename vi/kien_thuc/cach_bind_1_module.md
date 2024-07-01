@@ -14,11 +14,18 @@ Nói 1 cách dễ hiểu, keybind là tính năng gắn 1 phím trên bàn phím
 
 Có 2 cách phổ biến nhất hiện tại:
 
-Cách 1: Dùng lệnh \
-Mở chat và gõ `<prefix>bind <module> <key>`
+Cách 1: Dùng lệnh. Mở chat và gõ `<prefix>bind <module> <key>`
 - Prefix có thể là dấu `.`, `!`, ... đa số là dấu chấm.
 - Module là các tính năng trong client.
-- Key là các phím bạn muốn sử dụng cho module đó.
+- Key là các phím bạn muốn sử dụng cho module đó (nếu muốn bỏ gắn phím thì gõ `none`).
+
+Ví dụ:
+```
+.bind killaura r
+.bind scaffold f
+.bind speed tab
+.bind fly none
+```
 
 Cách 2: (Cách thủ công)
 - Bước 1: [Mở ClickGui](cach_mo_clickgui.md) (Chưa biết ấn vào để xem)

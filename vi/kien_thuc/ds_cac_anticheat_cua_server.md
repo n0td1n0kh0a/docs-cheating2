@@ -8,7 +8,7 @@
 | HeroMC         | heromc.net         | Bedwar 1.8                       | Matrix + Grim                | Ban IP 7 ngày                                                    |
 | HeroMC         | heromc.net         | Bedwar 1.12.2, ThePit, Practice  | Grim + Vulcan                | Bị kick ăn ban 1 giờ                                             |
 | HeroMC         | heromc.net         | Skywar                           | Grim + Vulcan                | Bị kick ăn ban 1 giờ                                             |
-| 3FMC           | 3fmc.com           | Bedwar                           | Intave                       |
+| 3FMC           | 3fmc.com           | Bedwar                           | Intave                       | Sau 2 trận thay 1 tài khoản
 | AEMine         | aemine.vn          | Bedwar, Skywar, ThePit           | Matrix + Spartan             |
 | MineFC         | minefc.net         | ThePit                           | Matrix + NCP                 | Server test trình HVH của bọn 2014-2015                          |
 | VietMine       | vietmine.com       | ThePit, KitPVP                   | Intave                       | Bị kick ăn ban 20 phút                                           |

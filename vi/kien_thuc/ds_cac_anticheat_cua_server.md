@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Danh sách anticheat trong các server</h1>
 </div>
-
 | Server         | IP                 | Minigame                         | Anticheat                    | Chú ý                                                                                                                      |
 | -------------- | ------------------ | -------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | HeroMC         | heromc.net         | Bedwar 1.8                       | Matrix + Grim                | Ban IP 7 ngày                                                                                                              |
@@ -21,11 +20,11 @@
 | Pika Network   | pika-network.net   | Bedwar, Skywar                   | Polar                        | Ban IP vĩnh viễn                                                                                                           |
 | Jartex Network | jartexnetwork.com  | Bedwar, Skywar                   | Polar                        | Ban IP vĩnh viễn                                                                                                           |
 | Hycraft        | hycraft.us         | Practice                         | Polar                        |                                                                                                                            |
-| Craftplay      | craftplay.pl       | Bedwar                           | Polar                        | Setting yếu                                                                                                                |
+| Craftplay      | craftplay.pl       | Bedwar                           | Intave                       |                                                                                                                            |
 | Lucky Network  | luckynetwork.net   | Bedwar                           | Polar                        | Ban IP vĩnh viễn                                                                                                           |
-| Hypixel        | hypixel.net        | Bedwar, Skywar, Practice, Thepit | Watchdog	+ Custom UNCP       |
+| Hypixel        | hypixel.net        | Bedwar, Skywar, Practice, Thepit | Watchdog	+ Custom UNCP       | Ban 30 ngày, 1 IP có tối đa 2 tài khoản                                                                                    |
 | MinemenClub    | minemen.club       | Practice                         | Anti Gaming Chair            |                                                                                                                            |
 | CubeCraft      | cubecraft.net      | Minigames                        | Sentinel (Custom NCP Fork)   | Ban vĩnh viễn + ban IP 24 giờ + AntiVPN                                                                                    |
 | Minemalia      | play.minemalia.com | Minigames                        | Grim                         | Ban IP 30 ngày + AntiVPN                                                                                                   |
 | Leonemc        | leonemc.net        | 1.8/1.9+ PVP                     | Grim                         | P2W, player ở đây ngu đến mức không nhận ra cheater, ban 15 ngày                                                           |
-| Shotbow        | Shotbow.net        | 1.8 / 1.12.2 Minigames           | Matrix + Anticheat Additions | Ban vĩnh viễn                                                                                                              |
+| Shotbow        | Shotbow.net        | 1.8 / 1.12.2 Minigames           | Matrix + Anticheat Additions | Ban vĩnh viễn                                                                                                              |                                               |

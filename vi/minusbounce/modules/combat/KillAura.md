@@ -16,6 +16,7 @@
   + Normal: Chạy hiệu ứng kiếm + gửi packet hiệu ứng.
   + Packet: Chỉ gửi packet hiệu ứng.
   + None: Không gửi hiệu ứng.
+    
     ![image](https://github.com/n0td1n0kh0a/docs-cheating2/assets/152876934/b1a838f8-029a-4b67-a46c-01ff009ad752)
 
 - Rotation: Chế độ xoay người chơi đến thực thể.
@@ -24,6 +25,7 @@
   + Grim: Bypass Grim Anticheat
   + Intave: Bypass Intave Anticheat 
   + None: Không xoay
+    
     ![image](https://github.com/n0td1n0kh0a/docs-cheating2/assets/152876934/17f12d12-3f69-4054-b802-4655c48df015)
 
 - Intave-RandomAmount: Lượng tốc độ xoay ngẫu nhiên với Rotation Intave.
@@ -35,12 +37,14 @@
   + HurtResistantTime: Chống chịu yếu nhất. ()
   + Armor: Giáp yếu nhất. ()
   + HurtTime: Sắp bị dính sát thương đầu tiên. ()
+    
     ![image](https://github.com/n0td1n0kh0a/docs-cheating2/assets/152876934/081db337-144a-42a5-830f-2f34ed5ea1c4)
 
 - TargetMode: Chế độ đánh.
   + Single: Đánh đơn. ()
   + Switch: Đánh 1 hit 1 người. ()
   + Multi: Đánh nhiều người cùng lúc. ()
+    
   ![image](https://github.com/n0td1n0kh0a/docs-cheating2/assets/152876934/916d8447-f620-40af-9005-9117f3297b00)
 
 - FailSwing: Chạy swing bản legit.
@@ -52,6 +56,7 @@
   + NewNCP: Bypass AutoBlock dành cho NoCheatPlus. ()
   + RightHold: Chuột phải block. ()
   + Swing: Chặn theo swing. ()
+    
     ![image](https://github.com/n0td1n0kh0a/docs-cheating2/assets/152876934/29f2abf3-1b73-4848-9eb9-c3ad8386802e)
 
 - InteractAutoBlock: AutoBlock dạng giao tiếp với người chơi (Giống như click chuột phải vào NPC).
@@ -62,6 +67,7 @@
   + None: Không di chuyển
   + Normal: Di chuyển góc quay như bình thường
   + Strict: Rất nghiêm ngặt (Legit)
+    
   ![image](https://github.com/n0td1n0kh0a/docs-cheating2/assets/152876934/2be74fa3-097b-4c67-88e4-2442f6ff02a4)
 
 - Predict: Hitbox đoán góc xoay.

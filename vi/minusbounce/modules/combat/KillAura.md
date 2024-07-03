@@ -4,6 +4,8 @@
 #### Danh mục: Combat
 #### Chức năng: Tự động tấn công tất cả thực thể đang ở xung quanh người chơi trong một phạm vi xác định.
 #### Settings: 
+![image](https://github.com/n0td1n0kh0a/docs-cheating2/assets/152876934/8ec7ebea-944e-44d1-8b86-605663cd2354)
+
 - MaxCPS: CPS tối đa để tấn công mục tiêu.
 - MinCPS: CPS tối thiểu để tấn công mục tiêu.
 - HurtTime: Thời gian còn lại địch sẽ dính sát thương. Khi hurtTime của địch lớn hơn hurtTime client chỉ định thì không đánh.

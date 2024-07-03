@@ -3,7 +3,6 @@
 #### Tên thường gọi: Aura, Slient Aura, KA, ....
 #### Danh mục: Combat
 #### Chức năng: Tự động tấn công tất cả thực thể đang ở xung quanh người chơi trong một phạm vi xác định.
-#### Phím mặc định: R
 #### Settings: 
 - MaxCPS: CPS tối đa để tấn công mục tiêu.
 - MinCPS: CPS tối thiểu để tấn công mục tiêu.

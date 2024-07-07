@@ -1,11 +1,12 @@
+# Aimbot 
 
+## Thông tin cơ bản
 
+- Tên thường gọi: AimAssist
+- Danh mục: Combat
+- Chức năng: Tự động ghim tâm/aim vào đối thủ
 
-## Aimbot 
-#### - Tên thường gọi: AimAssist
-#### - Danh mục: Combat
-#### - Chức năng: Tự động ghim tâm/aim vào đối thủ
-**Settings**
+## Settings
 ![image](https://github.com/n0td1n0kh0a/docs-cheating2/assets/152876934/ac5e6b57-a879-4d3e-ba2a-4e25ab0fddb3)
 
 - Range: khoảng cách tối đa module được kích hoạt
